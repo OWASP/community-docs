@@ -6,7 +6,7 @@ Technical content in this repository is kind of meta, non-original, as we refere
 
 It will be divided into the following target audience:
 
-* Developpers
+* Developers
 * Hackers
 
 
